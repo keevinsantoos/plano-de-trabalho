@@ -1,0 +1,6 @@
+{
+  "name": "CISEB - Gestão e Planejamento Pedagógico",
+  "description": "Sistema oficial de planejamento de atendimentos, suporte de prototipagem e gerador de relatórios pedagógicos para Professores Formadores do CISEB Pará.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
